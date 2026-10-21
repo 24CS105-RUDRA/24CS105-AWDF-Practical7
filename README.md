@@ -1,9 +1,9 @@
 # Practical 7: Authentication and Middleware Pipeline
 
 **Course:** Advanced Web Development Frameworks (ITUE301)  
-**Student Name:** Dharm Lakhani  
-**Student ID:** 24CS046  
-**GitHub Repository:** [https://github.com/24CS046Dharm/24cs046-awdf-practical7](https://github.com/24CS046Dharm/24cs046-awdf-practical7)
+**Student Name:** Rudra Vaghela  
+**Student ID:** 24CS105  
+**GitHub Repository:** [https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical7](https://github.com/24CS105-RUDRA/24CS105-AWDF-Practical7)
 
 ---
 
@@ -81,7 +81,7 @@ graph TD
 ## 📁 Repository Structure
 
 ```
-24cs046-awdf-practical7/
+24CS105-AWDF-Practical7/
 ├── client/                         # Frontend Application (React 18 + Vite)
 │   ├── public/
 │   ├── src/
@@ -174,5 +174,5 @@ npm test
 ---
 
 ## 👨‍💻 Author
-**Dharm Lakhani (24CS046)**  
+**Rudra Vaghela (24CS105)**  
 Department of Computer Science & Engineering

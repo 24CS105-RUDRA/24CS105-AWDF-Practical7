@@ -1,5 +1,5 @@
 {
-  "name": "24cs046-awdf-practical7",
+  "name": "24CS105-AWDF-Practical7",
   "version": "1.0.0",
   "description": "Practical 7: Authentication and Middleware Pipeline (React + Node + Express + JWT + bcrypt + MongoDB Atlas)",
   "private": true,
@@ -18,6 +18,6 @@
     "authentication",
     "middleware-pipeline"
   ],
-  "author": "Dharm Lakhani (24CS046)",
+  "author": "Rudra Vaghela (24CS105)",
   "license": "ISC"
 }

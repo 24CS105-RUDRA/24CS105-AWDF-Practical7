@@ -1,7 +1,7 @@
 /**
  * Automated Verification Test Suite for Practical 7:
  * Authentication and Middleware Pipeline (JWT + bcryptjs + Express + MongoDB Atlas)
- * Student: Dharm Lakhani (24CS046) | ITUE301
+ * Student: Rudra Vaghela (24CS105) | ITUE301
  */
 
 const http = require('http');
@@ -59,7 +59,7 @@ function assert(condition, message) {
 async function runTests() {
   console.log('===============================================================');
   console.log('  Practical 7: JWT Authentication & Middleware Test Suite');
-  console.log('  Student: Dharm Lakhani (24CS046) | Course: ITUE301');
+  console.log('  Student: Rudra Vaghela (24CS105) | Course: ITUE301');
   console.log('===============================================================\n');
 
   // Generate unique test email to prevent collisions across runs
@@ -67,7 +67,7 @@ async function runTests() {
   const testUser = {
     email: `student_${timestamp}@charusat.edu.in`,
     password: 'SecurePassword123!',
-    name: 'Dharm Lakhani'
+    name: 'Rudra Vaghela'
   };
 
   let authToken = null;
